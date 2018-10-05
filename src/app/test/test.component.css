@@ -1,0 +1,11 @@
+.text-error {
+    color: red;
+}
+
+.text-success {
+    color: green;
+}
+
+.text-special{
+    font-weight: bold;
+}
